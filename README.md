@@ -2,9 +2,9 @@
 
 ## 📌 Overview
 
-This project builds an end-to-end Natural Language Processing (NLP) and Machine Learning (ML) pipeline to classify toxic comments into multiple categories and detect group-targeted hate speech. It leverages TF-IDF vectorization and advanced text preprocessing techniques to handle noisy, real-world text data.
+This project builds an end-to-end Natural Language Processing (NLP) and Machine Learning (ML) pipeline, developed as part of LING 165 at San José State University (SJSU), to classify toxic comments into multiple categories and detect group-targeted hate speech. It leverages TF-IDF vectorization and advanced text preprocessing techniques to handle noisy, real-world text data.
 
-The model supports **multi-label classification**, meaning a single comment can belong to multiple toxicity categories simultaneously.
+The model supports multi-label classification, meaning a single comment can belong to multiple toxicity categories simultaneously.
 
 ---
 
